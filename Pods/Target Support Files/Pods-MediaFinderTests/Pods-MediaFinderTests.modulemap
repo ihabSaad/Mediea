@@ -1,0 +1,6 @@
+framework module Pods_MediaFinderTests {
+  umbrella header "Pods-MediaFinderTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
